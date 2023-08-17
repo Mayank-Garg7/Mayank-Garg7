@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn-images-1.medium.com/v2/resize:fit:918/1*U3WRRwLx3zeDkHmIVGLJdw.gif)
 <h1 align="center">Hi 👋, I'm Mayank Garg</h1>
-<h3 align="center">A passionate Web developer from India.</h3>
+<h3 align="center">A Passionate Web Developer from India.</h3>
 <img src="[https://cdn.dribbble.com/users/904433/screenshots/3304535/media/fe8a6cd3b4dcdbee6d6314c23405d793.gif](https://cdn.dribbble.com/users/904433/screenshots/3304535/media/fe8a6cd3b4dcdbee6d6314c23405d793.gif)" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-garg7&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-garg7" /> </p>
