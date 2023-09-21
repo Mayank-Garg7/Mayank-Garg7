@@ -1,8 +1,8 @@
 ![MasterHead](https://cdn-images-1.medium.com/v2/resize:fit:918/1*U3WRRwLx3zeDkHmIVGLJdw.gif)
 <h1 align="center">Hi 👋, I'm Mayank Garg</h1>
 <h3 align="center">A Passionate Web Developer From India.</h3>
-<img src="[https://cdn.dribbble.com/users/904433/screenshots/3304535/media/fe8a6cd3b4dcdbee6d6314c23405d793.gif](https://cdn.dribbble.com/users/904433/screenshots/3304535/media/fe8a6cd3b4dcdbee6d6314c23405d793.gif)" >
-
+<!-- <img src="[https://cdn.dribbble.com/users/904433/screenshots/3304535/media/fe8a6cd3b4dcdbee6d6314c23405d793.gif](https://cdn.dribbble.com/users/904433/screenshots/3304535/media/fe8a6cd3b4dcdbee6d6314c23405d793.gif)" > -->
+<img src = "https://miro.medium.com/v2/resize:fit:679/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" height = "400px" width = "550px" align = "right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-garg7&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-garg7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mayank garg" target="blank"><img src="https://img.shields.io/twitter/follow/mayank garg?logo=twitter&style=for-the-badge" alt="mayank garg" /></a> </p>
