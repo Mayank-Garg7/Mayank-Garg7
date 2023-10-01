@@ -33,5 +33,5 @@
 
 
 
-<p>&nbsp;<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=mayank-garg7&show_icons=true&locale=en" alt="mayank-garg7" /><img  width="48%" height="185px" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&" alt="mayank-garg7" /></p>
+<p>&nbsp;<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=mayank-garg7&show_icons=true&locale=en" alt="mayank-garg7" /><img  width="48%" height="182px" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&" alt="mayank-garg7" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-garg7&show_icons=true&locale=en&layout=compact" alt="mayank-garg7" /></p>
