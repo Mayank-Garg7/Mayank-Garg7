@@ -32,6 +32,6 @@
 </a> </p><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mayank-Garg7" alt="mayank-garg7" /></a> </p>
 
 
-
-<p>&nbsp;<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=mayank-garg7&show_icons=true&locale=en" alt="mayank-garg7" /><img  width="48%" height="176px" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&" alt="mayank-garg7" /></p>
+<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=mayank-garg7" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mayank-garg7" height="150" alt="languages graph"  />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-garg7&show_icons=true&locale=en&layout=compact" alt="mayank-garg7" /></p>
