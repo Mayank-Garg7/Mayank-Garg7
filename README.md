@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-garg7&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-garg7" /> </p>
 <p align="left"> <a href="https://twitter.com/mayank garg" target="blank"><img src="https://img.shields.io/twitter/follow/mayank garg?logo=twitter&style=for-the-badge" alt="mayank garg" /></a> </p>
 
-- 🌱 I’m currently learning **pandas,numpy,matplotlib**
+- 🌱 I’m currently learning **Pandas, Numpy, Matplotlib**
 
 - 💬 Ask me about **java,python development.**
 
@@ -30,9 +30,15 @@
 <a href="(https://github.com/mayank-garg7?tab=followers)"><img src="https://img.shields.io/github/followers/mayank-garg7?color=06d6a0&label=Github%20Followers&style=for-the-badge" width="200" /></a>
 
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=mayank-garg7&theme=dracula&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Garg7&theme=aura) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayank-Garg7&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank-Garg7&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank-Garg7&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayank-Garg7&theme=aura&utcOffset=8)
+
 [![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=mayank-garg7&show_icons=true&theme=dracula)](https://github.com/mayank-garg7)
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&theme=dracula)](https://github.com/mayank-garg7)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mayank-garg7" height="150" alt="languages graph"  />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mayank-garg7" height="150" alt="languages graph"  />-->
 
