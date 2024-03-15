@@ -40,5 +40,5 @@
 
 [![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=mayank-garg7&show_icons=true&theme=dracula)](https://github.com/mayank-garg7)
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&theme=dracula)](https://github.com/mayank-garg7)
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mayank-garg7" height="150" alt="languages graph"  />-->
+
 
