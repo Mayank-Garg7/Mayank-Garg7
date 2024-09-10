@@ -109,27 +109,40 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mayank-garg7&theme=dracula&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Garg7&theme=aura) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayank-Garg7&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank-Garg7&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank-Garg7&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayank-Garg7&theme=aura&utcOffset=8)
 
-[![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=mayank-garg7&show_icons=true&theme=dracula)](https://github.com/mayank-garg7)
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&theme=dracula)](https://github.com/mayank-garg7)
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/mayank-garg7">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-garg7&show_icons=true&theme=dracula" alt="Mayank's GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/mayank-garg7">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&theme=dracula" alt="Mayank's GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Garg7&theme=aura" alt="Profile Details" />
+  <table >
+    <tr style="margin-bottom: 20px;">
+      <td>
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayank-Garg7&theme=aura" alt="Stats Card" />
+      </td>
+      <td>
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank-Garg7&theme=aura" alt="Repos per Language" />
+      </td>
+    </tr>
+    <tr style="margin-bottom: 20px;">
+      <td>
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank-Garg7&theme=aura" alt="Most Commit Language" />
+      </td>
+      <td>
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayank-Garg7&theme=aura&utcOffset=8" alt="Productive Time" />
+      </td>
+    </tr>
+    <tr style="margin-bottom: 20px;">
+      <td>
+        <a href="https://github.com/mayank-garg7">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-garg7&show_icons=true&theme=dracula" alt="Mayank's GitHub Stats" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mayank-garg7">
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&theme=dracula" alt="Mayank's GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
