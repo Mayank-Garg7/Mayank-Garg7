@@ -111,33 +111,40 @@
 
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Garg7&theme=aura" alt="Profile Details" />
-  <table >
-    <tr style="margin-bottom: 20px;">
-      <td>
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayank-Garg7&theme=aura" alt="Stats Card" />
+  <!-- Profile Details Card -->
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Garg7&theme=aura" alt="Profile Details" style="margin-bottom: 20px; border: none;" />
+
+  <!-- Additional Summary Cards -->
+  <table style="margin-bottom: 20px; border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none;">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayank-Garg7&theme=aura" alt="Stats Card" style="border: none;" />
       </td>
-      <td>
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank-Garg7&theme=aura" alt="Repos per Language" />
-      </td>
-    </tr>
-    <tr style="margin-bottom: 20px;">
-      <td>
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank-Garg7&theme=aura" alt="Most Commit Language" />
-      </td>
-      <td>
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayank-Garg7&theme=aura&utcOffset=8" alt="Productive Time" />
+      <td style="border: none;">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank-Garg7&theme=aura" alt="Repos per Language" style="border: none;" />
       </td>
     </tr>
-    <tr style="margin-bottom: 20px;">
-      <td>
+    <tr>
+      <td style="border: none;">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank-Garg7&theme=aura" alt="Most Commit Language" style="border: none;" />
+      </td>
+      <td style="border: none;">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayank-Garg7&theme=aura&utcOffset=8" alt="Productive Time" style="border: none;" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- GitHub Stats and Streak -->
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none;">
         <a href="https://github.com/mayank-garg7">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-garg7&show_icons=true&theme=dracula" alt="Mayank's GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-garg7&show_icons=true&theme=dracula" alt="Mayank's GitHub Stats" style="border: none;" />
         </a>
       </td>
-      <td>
+      <td style="border: none;">
         <a href="https://github.com/mayank-garg7">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&theme=dracula" alt="Mayank's GitHub Streak" />
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&theme=dracula" alt="Mayank's GitHub Streak" style="border: none;" />
         </a>
       </td>
     </tr>
