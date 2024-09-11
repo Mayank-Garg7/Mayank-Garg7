@@ -119,7 +119,7 @@
 
 <div align="center">
   <!-- Profile Details Card -->
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Garg7&theme=aura" alt="Profile Details" style="margin-bottom: 20px; border: none;" /> <br />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Garg7&theme=aura" alt="Profile Details" style="margin-bottom: 20px; border: none;" /> <br /><br />
 
   <!-- Additional Summary Cards -->
   <table style="margin-bottom: 20px; border-collapse: collapse; border: none;">
@@ -131,16 +131,21 @@
         <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank-Garg7&theme=aura" alt="Repos per Language" style="border: none;" />
       </td>
     </tr>
-    <tr>
-      <td style="border: none;">
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank-Garg7&theme=aura" alt="Most Commit Language" style="border: none;" />
-      </td>
-      <td style="border: none;">
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayank-Garg7&theme=aura&utcOffset=8" alt="Productive Time" style="border: none;" />
-      </td>
-    </tr>
-  </table>
+ </table>
+ <br />
+<table style="border-collapse: collapse; border: 2px solid red; border-spacing: 0;">
+  <tr>
+    <td style="border: 2px solid blue; padding: 10px;">
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank-Garg7&theme=aura" alt="Most Commit Language" />
+    </td>
+    <td style="border: 2px solid green; padding: 10px;">
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayank-Garg7&theme=aura&utcOffset=8" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
 
+
+<br />
   <!-- GitHub Stats and Streak -->
   <table style="border-collapse: collapse; border: none;">
     <tr>
