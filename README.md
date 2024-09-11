@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn-images-1.medium.com/v2/resize:fit:918/1*U3WRRwLx3zeDkHmIVGLJdw.gif)
 <h1 align="center">Hi 👋, I'm Mayank Garg</h1>
 <h3 align="center">Full Stack Developer Specializing in React, Node.js, and Cloud Technologies.</h3>
-
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-garg7&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-garg7" /> </p>
 
 <p align="left">
@@ -17,8 +17,8 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3><br />
+<p align="center">
   <a href="https://twitter.com/mayank_garg" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayank_garg" height="30" width="40" />
   </a>
@@ -44,7 +44,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3><br /> <br />
 <h4>Languages:</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -103,16 +103,23 @@
 
 ---
 
-<a href="mailto:mayankgarg082@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayankgarg082@gmail.com" width="87"/></a>
+<p align="center">
+<a  href="mailto:mayankgarg082@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayankgarg082@gmail.com" width="87"/></a>
 <a href="(https://github.com/mayank-garg7?tab=followers)"><img src="https://img.shields.io/github/followers/mayank-garg7?color=06d6a0&label=Github%20Followers&style=for-the-badge" width="200" /></a>
+</p>
+<br />
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mayank-garg7&theme=dracula&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mayank-garg7&theme=dracula&row=1&column=10&margin-w=5" alt="GitHub Trophy" align="center"/>
+  </a>
+</div>
+<br />
 
 
 <div align="center">
   <!-- Profile Details Card -->
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Garg7&theme=aura" alt="Profile Details" style="margin-bottom: 20px; border: none;" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Garg7&theme=aura" alt="Profile Details" style="margin-bottom: 20px; border: none;" /> <br />
 
   <!-- Additional Summary Cards -->
   <table style="margin-bottom: 20px; border-collapse: collapse; border: none;">
