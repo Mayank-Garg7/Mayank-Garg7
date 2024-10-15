@@ -45,6 +45,7 @@
 ---
 
 <h3 align="center">Languages and Tools:</h3><br /> <br />
+<!-- My skills -->
 <h4>Languages:</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
