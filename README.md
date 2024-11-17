@@ -28,7 +28,7 @@
   <a href="https://kaggle.com/mayank_garg" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mayank_garg" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/mayank__g_arg" target="blank">
+  <a href="https://instagram.com/mayank__garg7" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayank__g_arg" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/c/@mayankgarg-tb4sx" target="blank">
