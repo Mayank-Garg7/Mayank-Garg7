@@ -51,11 +51,11 @@
 </p>
 <br />
 
-<div align="center">
-  <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mayank-garg7&theme=dracula&row=1&column=10&margin-w=5" alt="GitHub Trophy" align="center"/>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mayank-garg7&theme=dracula&no-frame=true&column=8&margin-w=10"/>
   </a>
-</div>
+</p>
 <br />
 
 
