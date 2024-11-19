@@ -1,4 +1,3 @@
-![MasterHead](https://cdn-images-1.medium.com/v2/resize:fit:918/1*U3WRRwLx3zeDkHmIVGLJdw.gif)
 <h1 align="center">Hi 👋, I'm Mayank Garg</h1>
 <h3 align="center">Full Stack Developer Specializing in React, Node.js, and Cloud Technologies.</h3>
 <br />
@@ -13,7 +12,7 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3><br />
+<h3 align="center">Connect with me</h3><br />
 <p align="center">
   <a href="https://twitter.com/mayank_garg" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayank_garg" height="30" width="40" />
@@ -39,6 +38,7 @@
 </p>
 
 ---
+<h3 align="center">Languages and Tools</h3><br />
 
 | **Languages** | **Front-End** | **Design Tools** | **Back-End** | **APIs** | **Databases** | **Version Control** | **Operating Systems** |
 |---------------|----------------|-------------------|--------------|-----------|----------------|----------------------|------------------------|
