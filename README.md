@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mayank Garg</h1>
 <h3 align="center">Full Stack Developer Specializing in React, Node.js, and Cloud Technologies.</h3>
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-garg7&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-garg7"/> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-garg7&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-garg7" /> </p>
+<!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=mayank-garg7.mayank-garg7" alt="visitor badge" />  -->
 
 - 🌱 I’m currently learning **Node.js, Express.js, Redux.js, and TypeScript**
 - 💬 Ask me about **JavaScript, React, Node.js, Bootstrap, Tailwind, MongoDB**
@@ -105,5 +105,13 @@
   </table>
 </div>
 
+---
+
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=mayank-garg7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+
+ 
 
 
