@@ -114,6 +114,7 @@
 
 ---
 
+[![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayank-garg7&theme=github-compact)](https://github.com/mayank-garg7/github-readme-activity-graph)
 
  
 
