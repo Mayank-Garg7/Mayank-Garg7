@@ -108,8 +108,9 @@
 ---
 
 <p align="center">
-  ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=mayank-garg7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+  <img src="https://github-contributor-stats.vercel.app/api?username=mayank-garg7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
 </p>
+
 
 
 ---
