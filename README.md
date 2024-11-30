@@ -19,7 +19,7 @@
   <a href="https://linkedin.com/in/mayank-garg" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank_garg" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/mayank_garg" target="blank">
+  <a href="https://www.kaggle.com/mayank787" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mayank_garg" height="30" width="40" />
   </a>
   <a href="https://instagram.com/mayank__garg7" target="blank">
