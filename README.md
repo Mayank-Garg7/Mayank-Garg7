@@ -28,7 +28,7 @@
   <a href="https://www.youtube.com/c/@mayankgarg-tb4sx" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mayankgarg-tb4sx" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/@mayank082" target="blank">
+  <a href="https://www.hackerrank.com/profile/mayankgarg082" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mayank082" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/mayank_garg" target="blank">
