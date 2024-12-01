@@ -22,6 +22,16 @@
   <a href="https://www.kaggle.com/mayank787" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mayank_garg" height="30" width="40" />
   </a>
+
+
+
+  <a href="https://olympus.mygreatlearning.com/certificates" target="blank">
+    <img align="center" src="https://github.com/user-attachments/assets/00149f2a-ab2f-49a5-9ee8-152e2061ad26" alt="mayank__garg7" height="30" width="30" />
+  </a>
+  
+  <a href="https://olympus.mygreatlearning.com/certificates" target="blank">
+    <img align="center" src="https://github.com/user-attachments/assets/6db5aac2-39a5-49f6-ae39-3933ea0d8fc0" alt="mayank__garg7" height="30" width="30" />
+  </a>
   <a href="https://instagram.com/mayank__garg7" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayank__g_arg" height="30" width="40" />
   </a>
