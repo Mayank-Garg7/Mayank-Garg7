@@ -63,15 +63,19 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mayank-garg7&theme=dracula&no-frame=true&column=8&margin-w=10"/>
+    
+  <img src="https://github-profile-trophy.vercel.app/?username=mayank-garg7&theme=dracula&no-frame=true&column=8&margin-w=10"/>
+  
   </a>
 </p>
 <br />
 
-
 <div align="center">
   <!-- Profile Details Card -->
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Garg7&theme=aura" alt="Profile Details" style="margin-bottom: 20px; border: none;" /> <br /><br />
+ <img align="center" src="https://github.com/user-attachments/assets/0c791eda-ab61-4c9d-8e4b-224378c43f38" alt"left" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Garg7&theme=aura" alt="Profile Details" style="margin-bottom: 20px; border: none;" />
+<img align="center" src="https://github.com/user-attachments/assets/8fedf61c-2440-4d97-98a3-fb710e8d1993" alt="right" />
+  <br /><br />
 
   <!-- Additional Summary Cards -->
   <table style="margin-bottom: 20px; border-collapse: collapse; border: none;">
@@ -103,12 +107,12 @@
     <tr>
       <td style="border: none;">
         <a href="https://github.com/mayank-garg7">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-garg7&show_icons=true&theme=dracula" alt="Mayank's GitHub Stats" style="border: none;" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-garg7&show_icons=true&theme=react-dark" alt="Mayank's GitHub Stats" style="border: none;" />
         </a>
       </td>
       <td style="border: none;">
         <a href="https://github.com/mayank-garg7">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&theme=dracula" alt="Mayank's GitHub Streak" style="border: none;" />
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&theme=react-dark" alt="Mayank's GitHub Streak" style="border: none;" />
         </a>
       </td>
     </tr>
@@ -118,14 +122,16 @@
 ---
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mayank-garg7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=mayank-garg7&limit=5&theme=react-dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
 </p>
 
 
 
 ---
 
-[![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayank-garg7&theme=github-compact)](https://github.com/mayank-garg7/github-readme-activity-graph)
+
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=mayank-garg7&theme=react-dark&hide_border=true&area=true)
 
  
 
