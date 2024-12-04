@@ -120,12 +120,8 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0c791eda-ab61-4c9d-8e4b-224378c43f38" alt="left" />
   <img src="https://github-contributor-stats.vercel.app/api?username=mayank-garg7&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
-  <img src="https://github.com/user-attachments/assets/8fedf61c-2440-4d97-98a3-fb710e8d1993" alt="right"  />
 </p>
-
-
 
 
 ---
