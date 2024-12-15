@@ -72,17 +72,17 @@
 
 <div align="center">
   <!-- Profile Details Card -->
-  <img align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Garg7&theme=dark&hide_border=true" alt="Profile Details" style="margin-bottom: 20px; border: none;" />
+  <img align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Garg7&theme=vue-dark&hide_border=true" alt="Profile Details" style="margin-bottom: 20px; border: none;" />
   <br /><br />
 
   <!-- Additional Summary Cards -->
   <table style="margin-bottom: 20px; border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none;">
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayank-Garg7&theme=dark&hide_border=true" alt="Stats Card" style="border: none;" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayank-Garg7&theme=vue-dark&hide_border=true" alt="Stats Card" style="border: none;" />
       </td>
       <td style="border: none;">
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank-Garg7&theme=dark&hide_border=true" alt="Repos per Language" style="border: none;" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank-Garg7&theme=vue-dark&hide_border=true" alt="Repos per Language" style="border: none;" />
       </td>
     </tr>
  </table>
@@ -90,10 +90,10 @@
 <table style="border-collapse: collapse; border: 2px solid red; border-spacing: 0;">
   <tr>
     <td style="border: 2px solid blue; padding: 10px;">
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank-Garg7&theme=dark&hide_border=true" alt="Most Commit Language" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank-Garg7&theme=vue-dark&hide_border=true" alt="Most Commit Language" />
     </td>
     <td style="border: 2px solid green; padding: 10px;">
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayank-Garg7&theme=dark&hide_border=true&utcOffset=8" alt="Productive Time" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayank-Garg7&theme=vue-dark&hide_border=true&utcOffset=8" alt="Productive Time" />
     </td>
   </tr>
 </table>
@@ -105,12 +105,12 @@
     <tr>
       <td style="border: none;">
         <a href="https://github.com/mayank-garg7">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-garg7&show_icons=true&theme=dark&hide_border=true" alt="Mayank's GitHub Stats" style="border: none;" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-garg7&show_icons=true&theme=vue-dark&hide_border=true" alt="Mayank's GitHub Stats" style="border: none;" />
         </a>
       </td>
       <td style="border: none;">
         <a href="https://github.com/mayank-garg7">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&theme=dark&hide_border=true" alt="Mayank's GitHub Streak" style="border: none;" />
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&theme=vue-dark&hide_border=true" alt="Mayank's GitHub Streak" style="border: none;" />
         </a>
       </td>
     </tr>
@@ -120,7 +120,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mayank-garg7&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=mayank-garg7&limit=5&theme=vue-dark&hide_border=true&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
 </p>
 
 
