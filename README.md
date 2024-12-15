@@ -135,7 +135,7 @@
 
 
 
-## Tim's Community Chess Tournament
+## Let's Play Chess
 
 **Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a black (solid) piece.
 
@@ -166,7 +166,7 @@
 | **H7** | [H5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ch7h5%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ch7h6%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
 | **H8** | [G8](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ch8g8%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
 
-Ask a friend to take the next move: [Share on Twitter...](https://twitter.com/share?text=I'm+playing+chess+on+a+GitHub+Profile+Readme!+Can+you+please+take+the+next+move+at+https://github.com/timburgan)
+Ask a friend to take the next move: [Share on Twitter...](https://twitter.com/share?text=I'm+playing+chess+on+a+GitHub+Profile+Readme!+Can+you+please+take+the+next+move+at+https://github.com/mayank-garg7)
 
 **How this works**
 
@@ -174,42 +174,9 @@ When you click a link, it opens a GitHub Issue with the required pre-populated t
 
 **Notice a problem?**
 
-Raise an [issue](https://github.com/timburgan/timburgan/issues), and include the text _cc @timburgan_.
+Raise an [issue](https://github.com/mayank-garg7/mayank-garg7/issues), and include the text _cc @mayank-garg7.
 
-**Last few moves, this game**
 
-| Move  | Who |
-| ----- | --- |
-| D1 to F3 | [@JohnyP36](https://github.com/JohnyP36) |
-| G8 to F6 | [@jomsk1e](https://github.com/jomsk1e) |
-| B1 to C3 | [@memcorrupt](https://github.com/memcorrupt) |
-| D7 to D6 | [@JohnyP36](https://github.com/JohnyP36) |
-| E4 to D5 | [@JRetza](https://github.com/JRetza) |
-
-**Top 20 Leaderboard: Most moves across all games, except me.**
-
-| Moves | Who |
-| ----- | --- |
-| 3336 | [@JRetza](https://github.com/JRetza) |
-| 2020 | [@JohnyP36](https://github.com/JohnyP36) |
-| 1641 | [@michaelprimo](https://github.com/michaelprimo) |
-| 1611 | [@simonberner](https://github.com/simonberner) |
-| 1584 | [@houhoulis](https://github.com/houhoulis) |
-| 704 | [@donno2048](https://github.com/donno2048) |
-| 641 | [@Nomes77](https://github.com/Nomes77) |
-| 595 | [@Mmark94](https://github.com/Mmark94) |
-| 555 | [@N-NeelPatel](https://github.com/N-NeelPatel) |
-| 552 | [@automainint](https://github.com/automainint) |
-| 501 | [@ApoorvTyagi](https://github.com/ApoorvTyagi) |
-| 493 | [@cosmoglint](https://github.com/cosmoglint) |
-| 461 | [@jatin-pahuja](https://github.com/jatin-pahuja) |
-| 420 | [@mishmanners](https://github.com/mishmanners) |
-| 368 | [@dpuenteramirez](https://github.com/dpuenteramirez) |
-| 340 | [@rayssagomees](https://github.com/rayssagomees) |
-| 312 | [@rajesh545862](https://github.com/rajesh545862) |
-| 309 | [@ak811](https://github.com/ak811) |
-| 196 | [@DalpatRathore](https://github.com/DalpatRathore) |
-| 195 | [@shpatrickguo](https://github.com/shpatrickguo) |
 
 
 <p align="center"> 
