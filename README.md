@@ -217,6 +217,9 @@ Raise an [issue](https://github.com/mayank-garg7/mayank-garg7/issues), and inclu
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
 
-
+<p  align="center">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">       -->
+ <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<br>
 
 ---
