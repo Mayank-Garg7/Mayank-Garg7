@@ -126,7 +126,11 @@
 ---
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=mayank-garg7&theme=react-dark&hide_border=true&area=true)
- 
+
+<p  align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+</p>
+<be />
 ---
 
 ## Let's Play Chess
@@ -218,7 +222,6 @@ Raise an [issue](https://github.com/mayank-garg7/mayank-garg7/issues), and inclu
 </p>
 
 <p  align="center">
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">       -->
  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <br>
 
