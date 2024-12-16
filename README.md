@@ -181,11 +181,4 @@ Raise an [issue](https://github.com/mayank-garg7/mayank-garg7/issues), and inclu
   <img src="https://profile-counter.glitch.me/mayank-garg78/count.svg" />
 </p>
 
-<img src="stats.gif" width="90%"><br/><br/>
-
-
-
-
-
-
-
+---
