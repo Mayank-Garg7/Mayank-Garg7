@@ -212,6 +212,11 @@ Raise an [issue](https://github.com/mayank-garg7/mayank-garg7/issues), and inclu
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
    
 </div>
+<br>
+<p align="center"">
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
+
 
 
 ---
