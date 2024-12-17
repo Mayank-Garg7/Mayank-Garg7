@@ -224,5 +224,3 @@ Raise an [issue](https://github.com/mayank-garg7/mayank-garg7/issues), and inclu
 <p  align="center">
  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <br>
-
----
