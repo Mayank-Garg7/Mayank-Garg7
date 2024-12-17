@@ -180,12 +180,10 @@ Raise an [issue](https://github.com/mayank-garg7/mayank-garg7/issues), and inclu
 
 ---
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/mayank-garg78/count.svg" />
+<p  align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 </p>
-
----
+   
 
 ## Here’s a vibrant showcase of 🦜✨🌟 Parrots 🦜🎉😂, spreading joy and color 🐦💚🌈!
 
@@ -215,11 +213,6 @@ Raise an [issue](https://github.com/mayank-garg7/mayank-garg7/issues), and inclu
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 
-
-<p  align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-</p>
-   
 </div>
 <br>
 <p align="center"">
@@ -228,4 +221,12 @@ Raise an [issue](https://github.com/mayank-garg7/mayank-garg7/issues), and inclu
 
 <p  align="center">
  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-<br>
+<be>
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/mayank-garg78/count.svg" />
+</p>
+<p  align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+</p>
