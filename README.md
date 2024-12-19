@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mayank Garg</h1>
+<h3 align="center">Full Stack Developer Specializing in React, Node.js, and Cloud Technologies.</h3>
 <p  align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 </p>
-<h3 align="center">Full Stack Developer Specializing in React, Node.js, and Cloud Technologies.</h3>
-<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-garg7&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-garg7" /> </p>
 <!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=mayank-garg7.mayank-garg7" alt="visitor badge" />  -->
 
