@@ -252,7 +252,7 @@ Raise an [issue](https://github.com/mayank-garg7/mayank-garg7/issues), and inclu
 <be>
 
 <p align="center"> 
-  Visitors count<br>
+  Visitors counts <br>
   <img src="https://profile-counter.glitch.me/mayank-garg78/count.svg" />
 </p>
 <p  align="center">
