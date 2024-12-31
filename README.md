@@ -214,9 +214,7 @@ Raise an [issue](https://github.com/mayank-garg7/mayank-garg7/issues), and inclu
 
    
 ## Here’s a vibrant showcase of 🦜✨🌟 Parrots 🦜🎉😂, spreading joy and color 🐦💚🌈!
-<p  align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-</p>
+--- 
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
