@@ -145,13 +145,6 @@
 <br />
 
 
-## Let's Play Chess
-
-**The game is in progress.**
-
-This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a black (solid) piece.
-
-<center align="center">
   
 |   | A | B | C | D | E | F | G | H |
 | - | - | - | - | - | - | - | - | - |
