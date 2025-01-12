@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Garg</h1>
-<h3 align="center">Full Stack Developer Specializing in React, Node.js, and Cloud Technologies.</h3>
+<h3 align="center">Full Stack Developer Specializing in React, Node.js, and Front-End Technologies.</h3>
 <p  align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 </p>
