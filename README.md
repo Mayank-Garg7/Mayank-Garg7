@@ -3,7 +3,13 @@
 <p  align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-garg7&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-garg7" /> </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mayank-garg7-reset&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-garg7" />
+</p>
+
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-garg7&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-garg7" /> </p> -->
 <!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=mayank-garg7.mayank-garg7" alt="visitor badge" />  -->
 
 - 🌱 I’m currently learning **Node.js, Express.js, Redux.js, and TypeScript**
@@ -199,11 +205,20 @@ Raise an [issue](https://github.com/mayank-garg7/mayank-garg7/issues), and inclu
  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <be>
 
+
+<p align="center"> 
+  Visitors counts <br>
+  <br>
+  <img src="https://profile-counter.glitch.me/mayank-garg78-reset/count.svg" alt="Visitor Count">
+</p>
+
+<!-- 
 <p align="center"> 
   Visitors counts <br>
   <br >
-  <img src="https://profile-counter.glitch.me/mayank-garg78/count.svg" />
+  <img src="https://profile-counter.glitch.me/mayank-garg78/count.svg" /> 
 </p>
+  -->
 <p  align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 </p>
