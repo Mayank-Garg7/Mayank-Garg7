@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 </p>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-garg7&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-garg7" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-garg7&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-garg7" /> </p> 
 <!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=mayank-garg7.mayank-garg7" alt="visitor badge" />  -->
 
 - 🌱 I’m currently learning **Node.js, Express.js, Redux.js, and TypeScript**
