@@ -71,12 +71,11 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    
+  <a href="https://github.com/mayank-garg7/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=mayank-garg7&theme=dracula&no-frame=true&column=8&margin-w=10"/>
-  
   </a>
 </p>
+
 <br />
 
 <div align="center">
