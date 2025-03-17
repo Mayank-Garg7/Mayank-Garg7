@@ -1,3 +1,4 @@
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Garg7&layout=compact&theme=dark" alt="Top Languages" />-->
 <h1 align="center">🚀 Hi, I'm Mayank Garg!👋  </h1>
 <h3 align="center">💻 Full Stack Developer | React.js | Node.js | Front-End Specialist. </h3>
 <h3 align="center">🌍 Passionate about Web Technologies & Problem-Solving.  </h3>
