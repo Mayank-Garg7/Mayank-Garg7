@@ -9,7 +9,7 @@
 <!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=mayank-garg7.mayank-garg7" alt="visitor badge" />  -->
 
 - 🌱 I’m currently learning **Node.js, Express.js, Redux.js, and TypeScript**
-- 💬 Ask me about **JavaScript, React.js, Node.js, Bootstrap, Tailwind, MongoDB, python**
+- 💬 Ask me about **JavaScript, React.js, Node.js, Bootstrap, Tailwind, MongoDB, Python**
 - 📫 How to reach me: **mayankgarg082@gmail.com**
 - ⚡ Fun fact: **Apart from coding, I love playing chess and solving mind-bending puzzles. Challenge me anytime!**
 
@@ -77,7 +77,7 @@
   </a>
 </p> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayank-garg7" alt="mayank" /></a> </p>
+
 
 
 <br />
